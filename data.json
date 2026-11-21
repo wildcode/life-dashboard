@@ -1,9 +1,9 @@
 {
-  "status": "on_track",
+  "status": "attention_needed",
   "priorities": [
-    "Complete Q3 milestone deliverables",
-    "Address open critical bugs in sprint backlog",
-    "Conduct user testing for new dashboard features"
+    "Resolve API latency spikes in production",
+    "Finalize Q3 product roadmap and resource allocation",
+    "Complete third-party security compliance audit"
   ],
-  "last_updated": "2026-11-20 14:28 UTC"
+  "last_updated": "2026-11-21 13:45 UTC"
 }
