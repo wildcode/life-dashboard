@@ -1,9 +1,9 @@
 {
   "status": "attention_needed",
   "priorities": [
-    "Address API response latency in authentication service",
-    "Finalize sprint backlog for Q4 feature release",
-    "Schedule cross-team dependency sync for UI redesign"
+    "Resolve API latency bottleneck in region US-East",
+    "Complete QA regression testing for v2.1 release",
+    "Finalize Q3 resource allocation with stakeholders"
   ],
-  "last_updated": "2026-11-24 16:32 UTC"
+  "last_updated": "2026-11-25 16:12 UTC"
 }
