@@ -1,9 +1,9 @@
 {
   "status": "attention_needed",
   "priorities": [
-    "Resolve API latency bottleneck in region US-East",
-    "Complete QA regression testing for v2.1 release",
-    "Finalize Q3 resource allocation with stakeholders"
+    "Complete Q3 security audit",
+    "Resolve database latency spikes",
+    "Finalize mobile app UI redesign"
   ],
-  "last_updated": "2026-11-25 16:12 UTC"
+  "last_updated": "2026-11-27 15:40 UTC"
 }
